@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooyoui&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![Python](https://img.shields.io/badge/code-Python-3.12-blue)]
+[![Python](https://img.shields.io/badge/code-Python3.12-blue)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooyoui&layout=compact&theme=tokyonight)
 </div>
